@@ -1,0 +1,8 @@
+{
+  "name": "Nossos Materiais - Link na Bio",
+  "description": "Página central de links e e-books extremamente simples, minimalista e elegante.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
